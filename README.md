@@ -1,4 +1,3 @@
-# CrossFit
 
 ## 📋 Requisitos Funcionais
 
@@ -36,8 +35,10 @@
 - **RF25**: Alerta se estoque ficar abaixo do mínimo após movimentação
 - **RF26**: Atualizar lista de produtos após movimentação
 
+<img width="775" height="655" alt="Captura de tela 2025-11-17 155442" src="https://github.com/user-attachments/assets/0dcf8acc-ca42-4b97-a8f9-172619f1388d" />
 
-<img width="728" height="594" alt="image" src="https://github.com/user-attachments/assets/a17da005-a3da-4125-b8e5-124290dec389" />
+
+
 
 
 
